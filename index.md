@@ -1,4 +1,5 @@
 ## Welcome to my GitHub Page
 
 
-[Here](Project.html) is the project report can be found
+The IE 360 project can be found [Here](Project.html) 
+The running code of the project can be found [Here](Project_IE360_Spring20_Code.R) 
